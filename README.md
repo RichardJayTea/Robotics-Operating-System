@@ -1,6 +1,6 @@
 # Robotics-Operating-System
 
-This is a closed proprietary project and I will reframe from releasing the source code of the main components involved in this development.
+This is a closed proprietary project and I will refrain from releasing the source code of the main components involved in this development.
 
 The launch.cpp file is coded to create 3 child processes that consist of the main components needed for the system to run properly.
 
